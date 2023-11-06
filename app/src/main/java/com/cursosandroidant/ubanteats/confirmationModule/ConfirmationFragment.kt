@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.NavHostFragment
 import com.cursosandroidant.ubanteats.R
@@ -50,6 +51,8 @@ class ConfirmationFragment : Fragment(){
     
     private fun setupButtons() {
         binding.btnDone.setOnClickListener {
+            binding.pBar.visibility = View.VISIBLE
+            binding.btnDone.isEnabled = false
             NavHostFragment.findNavController(this)
                 .navigate(R.id.action_confirmation_to_tracking)
         }

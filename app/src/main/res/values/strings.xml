@@ -3,20 +3,27 @@
 
     <string name="item_product_name_hint">Nombre del producto</string>
     <string name="item_product_photo_description">Imagen del producto</string>
-
+    <string name="location_permission_denied">Permiso denegado. Por favor intente de nuevo y otorgue el permiso de ubicación.\nSi el permiso ha sido denegado permanentemente, este puede habilitarse en Configuración &gt; Aplicaciones &gt; Maps Basics.</string>
+    <string name="permission_required_toast">El permiso de ubicación es requerido.</string>
     <string name="cart_btn_back">Atrás</string>
     <string name="cart_btn_pay">Pagar</string>
     <string name="cart_check_list">Pedido:</string>
     <string name="cart_price">$1.00</string>
     <string name="cart_sum">Total = $%1$.2f</string>
     <string name="cart_title">Carrito de compras</string>
-
+    <string name="permission_rationale_location">Se requiere acceder al servicio de ubicación</string>
     <string name="confirmation_btn_next">Rastrear</string>
     <string name="confirmation_message">Sus alimentos llegarán pronto, gracias por su compra.</string>
     <string name="confirmation_status">¡Pago exitoso!</string>
     <string name="confirmation_title">Pago</string>
 
     <string name="products_btn_add_cart">Añadir</string>
-
+    <string name="toast_msg_nav_ready">Navegador preparado</string>
     <string name="tracking_title">Seguimiento de tu pedido…</string>
+    <string name="btn_text_end">Finalizar</string>
+    <string name="img_contentD_repartidor">Foto del repartidor</string>
+    <string name="tracking_name">%s está en camino…</string>
+    <string name="tv1_tracking_fragment">Joy está en camino</string>
+    <string name="tv2_tracking_fragment">Quedan 200 metros</string>
+    <string name="tracking_distance">A %s de llegar\n</string>
 </resources>

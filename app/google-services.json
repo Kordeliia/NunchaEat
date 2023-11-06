@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "9468994158",
+    "project_id": "gmapitas-d7369",
+    "storage_bucket": "gmapitas-d7369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9468994158:android:8631f27e17352baf127c7f",
+        "android_client_info": {
+          "package_name": "com.WN.weddingnai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_KxDCNMnjakUGFsQUPHXrm3wsEvk4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9468994158:android:d0e40fbf1a7c7413127c7f",
+        "android_client_info": {
+          "package_name": "com.cursosandroidant.ubanteats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_KxDCNMnjakUGFsQUPHXrm3wsEvk4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9468994158:android:350c08ce287134a7127c7f",
+        "android_client_info": {
+          "package_name": "com.example.gmaps2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_KxDCNMnjakUGFsQUPHXrm3wsEvk4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
